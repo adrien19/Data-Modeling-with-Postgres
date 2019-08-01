@@ -1,0 +1,7 @@
+
+log_data/
+song_data/
+
+dbconfig.cfg
+__pycache__/
+.ipynb_checkpoints/
